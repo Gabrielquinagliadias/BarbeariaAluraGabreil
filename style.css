@@ -9,6 +9,11 @@ text-align: center;}
 
 .beneficio{text-align: center;}
 
-.imagem-benefício{ width: 100%;}
+.imagem-beneficios{ width: 50%;}
 
 .imagem{width: 100%;}
+
+.titulo{padding: 20px;}
+
+.lista{display: inline-block;
+vertical-align: top;}
